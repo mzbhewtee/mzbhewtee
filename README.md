@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
-## Hello! I am Beauty Ikudehinbu. 
+### Hello! I am Beauty Ikudehinbu. 
 
 <div align="center">
     <p>
