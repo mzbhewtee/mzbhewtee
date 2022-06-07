@@ -26,15 +26,14 @@
 
 <!-- ## Working as a Software Engineer (Full-time) at <a href="https://clear.ml"><img src="https://clearml.b-cdn.net/wp-content/uploads/2020/12/clearml-logo.svg" width="128px" alt="ClearML" /></a> -->
 
+
+<!-- - 📫 How to reach me: mail -->
+- 😄 Pronouns: (She/Her/Hers)
+<!-- - ⚡ Fun fact: I love anime, manga, light-novel, mus. -->
+
 <div align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=mzbhewtee&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
         />
     </p>
 </div>
-
-<!-- - 📫 How to reach me: mail -->
-- 😄 Pronouns: (She/Her/Hers)
-<!-- - ⚡ Fun fact: I love anime, manga, light-novel, mus. -->
-
-
