@@ -1,5 +1,7 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
 ### Hello! I am Beauty Ikudehinbu. 
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
+
 
 <div align="center">
     <p>
