@@ -1,39 +1,17 @@
-### Hello! I am Beauty Ikudehinbu. 
+<h3 align="center">
+  Hi, there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" />
-
-
-<div align="center">
-    <p>
-        <a href="https://github.com/mzbhewtee">
-            <img src="https://img.shields.io/github/followers/mzbhewtee?label=follow&amp;style=social" 
-                 alt="GitHub mzbhewtee" 
-            />
-        </a>
-        <a href="https://www.linkedin.com/in/beauty-ikudehinbu/">
-            <img src="https://img.shields.io/badge/-beauty-ikudehinbu-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/beauty-ikudehinbu/" 
-                 alt="Linkedin: Beauty Ikudehinbu" 
-            />
-        </a>
-        <a href="https://twitter.com/Linux_Saikat">
-            <img src="https://img.shields.io/twitter/follow/Linux_Saikat?style=social" 
-                 alt="Twitter: Rizwan Hasan" 
-            />
-        </a>
-        
-    </p>
-</div>
-
-<!-- ## Working as a Software Engineer (Full-time) at <a href="https://clear.ml"><img src="https://clearml.b-cdn.net/wp-content/uploads/2020/12/clearml-logo.svg" width="128px" alt="ClearML" /></a> -->
-
-
-<!-- - 📫 How to reach me: mail -->
-- 😄 Pronouns: (She/Her/Hers)
-<!-- - ⚡ Fun fact: I love anime, manga, light-novel, mus. -->
-
-<div align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=mzbhewtee&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
-        />
-    </p>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=D2150A&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;Machine+Learning+and+AI+Engineer;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="LinkedIn" title="Linkedin" src="images/linkedin.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="images/discord.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/devprotips/"><img width="32px" alt="Instagram" title="Instagram" src="images/instagram.png"/></a>
+</p>
