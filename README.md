@@ -15,11 +15,6 @@
                  alt="Linkedin: Beauty Ikudehinbu" 
             />
         </a>
-        <a href="https://twitter.com/Linux_Saikat">
-            <img src="https://img.shields.io/twitter/follow/Linux_Saikat?style=social" 
-                 alt="Twitter: Rizwan Hasan" 
-            />
-        </a>
         
     </p>
 </div>
