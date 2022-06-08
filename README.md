@@ -19,11 +19,16 @@
   <a href=""><img width="32px" alt="Gmail" title="Gmail" src="images/gmail.png">
 </p>
 
+---
+## About
 
+---
+<p>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mzbhewtee&theme=shades-of-purple&hide_border=true" height="192px"></a>
 <a href="https://github.com/mzbhewtee/github-readme-stats"><img alt="Beauty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbhewtee&langs_count=8&layout=compact&theme=shades-of-purple&hide_border=true&bg_color&title_color=FFD700&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+<br/>
+</p>
 
-  <i><b>Note:</b> These languages are only a metric of the languages my public code contain, and it doesn't reflect programming experience or skill level.</i>
+<i><b>Note:</b> These languages are only a metric of the languages my public code contain, and it doesn't reflect programming experience or skill level.</i>
 
 
