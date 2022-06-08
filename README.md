@@ -20,31 +20,26 @@
 </p>
 
 ---
-<span style="color:FFD700">
 <ol><h1>:man_technologist: About Me</h1></ol>
 <li>📖 I am currently Learning Advance Python.</li>
 <li>🌠 2022 goal: Become a senior machine learning engineer.</li>
 <li>🧑🏿 Pronouns: She/Her/Hers.</li>
 <li>🎈 Fun-fact: I like being alone.</li>
-</span>
+
 
 ---
-<span style="color:FFD700">
-<h1> ⚙️ Languages and Tools</h1>
-</span>
-<div>
-  <img src="images/java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="images/python.png" title="Python"  alt="python" width="30" height="30"/>&nbsp;
-  <img src="images/flask.png" title="Flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="images/js.png" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src ="images/css.png" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="images/html-5.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="images/azure.png" title="Azure" alt="azure" width="40" height="40"/>&nbsp;
-  <img src="images/github.png"  title="Github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="images/sql.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="images/visual-basic.png" title="VSCode"  alt="VScode" width="40" height="40"/>&nbsp;
-</div>
 
+<h1> ⚙️ Languages and Tools</h1>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="TKinter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 ---
 
