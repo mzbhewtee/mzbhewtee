@@ -27,7 +27,7 @@
 - 🎈 Fun-fact: I like being alone.
 
 ---
-fluent:window-dev-tools-16-filled
+⚙️ **Languages and Tools**
 
 ---
 
