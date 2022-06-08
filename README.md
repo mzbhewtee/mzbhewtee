@@ -1,10 +1,10 @@
 <h3 align="center">
-  Hi, there!
+  <span style="color:#FFD700">Hi, there!</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/mzbhewtee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=FFFFFF&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;Machine+Learning+and+AI+Engineer;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
+  <a href="https://github.com/mzbhewtee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=FFD700&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;Machine+Learning+and+AI+Engineer;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
 </p>
 
 <p align="center">
@@ -20,24 +20,29 @@
 </p>
 
 ---
-### :man_technologist: About Me
-- 📖 I am currently Learning Advance Python.
-- 🌠 2022 goal: Become a senior machine learning engineer.
-- 🧑🏿 Pronouns: She/Her/Hers.
-- 🎈 Fun-fact: I like being alone.
+<span style="color:FFD700">
+<ol><h1>:man_technologist: About Me</h1></ol>
+<li>📖 I am currently Learning Advance Python.</li>
+<li>🌠 2022 goal: Become a senior machine learning engineer.</li>
+<li>🧑🏿 Pronouns: She/Her/Hers.</li>
+<li>🎈 Fun-fact: I like being alone.</li>
+</span>
 
 ---
-### ⚙️ Languages and Tools
+<span style="color:FFD700">
+<h1> ⚙️ Languages and Tools</h1>
+</span>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="images/java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="images/python.png" title="Python"  alt="python" width="30" height="30"/>&nbsp;
+  <img src="images/flask.png" title="Flask" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="images/js.png" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="images/css.png" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="images/html-5.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="images/azure.png" title="Azure" alt="azure" width="40" height="40"/>&nbsp;
+  <img src="images/github.png"  title="Github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="images/sql.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="images/visual-basic.png" title="VSCode"  alt="VScode" width="40" height="40"/>&nbsp;
 </div>
 
 
