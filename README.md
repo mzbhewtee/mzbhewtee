@@ -36,7 +36,7 @@
   <img src="images/java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="images/python.png" title="Python"  alt="python" width="30" height="30"/>&nbsp;
   <img src="images/flask.png" title="Flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="images/js.png" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="images/JS.png" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="images/css.png" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="images/html-5.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="images/azure.png" title="Azure" alt="azure" width="40" height="40"/>&nbsp;
