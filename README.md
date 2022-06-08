@@ -4,8 +4,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=D2150A&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;Machine+Learning+and+AI+Engineer;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=FFFFFF&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;Machine+Learning+and+AI+Engineer;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
 </p>
+
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="LinkedIn" title="Linkedin" src="images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -14,4 +15,6 @@
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="images/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/devprotips/"><img width="32px" alt="Instagram" title="Instagram" src="images/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="32px" alt="Gmail" title="Gmail" src="images/gmail.png">
 </p>
