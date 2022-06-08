@@ -18,3 +18,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=""><img width="32px" alt="Gmail" title="Gmail" src="images/gmail.png">
 </p>
+
+<p>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mzbhewtee&hide=issues&count_private=true&&hide_border=true&include_all_commits=false&show_icons=true&theme=calm" 
+        /></a>
+    <a href="https://github.com/mzbhewtee/github-readme-stats"><img alt="Beauty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbhewtee&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
