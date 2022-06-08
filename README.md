@@ -21,7 +21,6 @@
 
 <p>
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mzbhewtee&theme=shades-of-purple&hide_border=true"></a>
-<br/>
     <a href="https://github.com/mzbhewtee/github-readme-stats"><img alt="Beauty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbhewtee&langs_count=8&layout=compact&theme=shades-of-purple&hide_border=true&bg_color&title_color=FFD700&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </p>
