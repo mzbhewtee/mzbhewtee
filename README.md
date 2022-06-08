@@ -20,15 +20,35 @@
 </p>
 
 ---
-### :man_technologist: About
-
+### :man_technologist: About Me
+- 📖 I am currently Learning Advance Python.
+- 🌠 2022 goal: Become a senior machine learning engineer.
+- 🧑🏿 Pronouns: She/Her/Hers.
+- 🎈 Fun-fact: I like being alone.
 
 ---
-<p>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
+</div>
+---
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mzbhewtee&theme=shades-of-purple&hide_border=true" height="192px"></a>
 <a href="https://github.com/mzbhewtee/github-readme-stats"><img alt="Beauty's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbhewtee&langs_count=8&layout=compact&theme=shades-of-purple&hide_border=true&bg_color&title_color=FFD700&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
-</p>
+
 
 <i><b>Note:</b> These languages are only a metric of the languages my public code contain, and it doesn't reflect programming experience or skill level.</i>
 
