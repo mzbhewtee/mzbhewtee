@@ -12,11 +12,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ikudehinbu_"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="images/discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/mz_bhewtee/" target="blank_"><img width="32px" alt="Instagram" title="Instagram" src="images/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Gmail" title="Gmail" src="images/gmail.png">
+  <a href="mailto:abimbolaikus@gmail.com?"><img width="32px" alt="Gmail" title="Gmail" src="images/gmail.png">
 </p>
 
 ---
