@@ -20,8 +20,8 @@
 ---
 
 <ol align="center"><h1>:man_technologist: About Me</h1></ol>
-<li align="left">📖 I am currently Learning Advance Python.</li>
-<li align="left">🌠 2022 goal: Become a senior machine learning engineer.</li>
+<li align="left">📖 I am currently Learning Advance Python, UI/UX Design ML/AI.</li>
+<li align="left">🌠 2023 goal: Become a senior machine learning engineer.</li>
 <li align="left">🧑🏿 Pronouns: She/Her/Hers.</li>
 <li align="left">🎈 Fun-fact: I like being alone.</li>
 
