@@ -21,7 +21,7 @@
 
 <ol align="center"><h1>:man_technologist: About Me</h1></ol>
 <li align="left">📖 I am currently Learning Advance Python, UI/UX Design, and ML/AI.</li>
-<li align="left">🌠 2023 goal: Become a senior machine learning engineer.</li>
+<li align="left">🌠 2023 goal: Become a senior machine learning engineer. [Its December, and i am still a learner, LOL]</li>
 <li align="left">🧑🏿 Pronouns: She/Her/Hers.</li>
 <li align="left">🎈 Fun-fact: I like being alone.</li>
 
