@@ -4,5 +4,5 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/mzbhewtee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=FFD700&background=FF532B00&height=60&lines=I'm+Beauty+Ikudehinbu;UI%2FUX+and+Graphics+designer;Web+Developer"></a>
+  <a href="https://github.com/mzbhewtee/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=7017&color=FFD700&background=FF532B00&height=60&align=justify&lines=I'm+Beauty+Ikudehinbu;"></a>
 </p>
